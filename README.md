@@ -95,5 +95,5 @@ This project strengthened my skills in:
 
 Feel free to reach out for collaborations or data analyst roles.
 
-📧 elisabeta.girgenti@email.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+📧 elisabeta.girgenti@icloud.com
+🔗 [LinkedIn](www.linkedin.com/in/elisabeta-girgenti/)
