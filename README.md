@@ -46,7 +46,7 @@ You’ll find the SQL scripts in the `/sql` folder. Key queries include:
 - High spender identification
 - Correlation analysis between income and spending
 
-> 🔗 [View SQL Queries](./sql)
+> 🔗 [View SQL Queries](https://github.com/ElisaBeta-Girgenti/uk-bank-customers-sql/blob/main/01_overview.sql)
 
 ---
 
